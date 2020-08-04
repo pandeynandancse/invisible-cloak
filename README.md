@@ -21,8 +21,10 @@ Become Invisible using opencv and image segmentation
 
 
 ## Directory Tree 
+```
 
 ├── images
+├── activation.bat
 ├── README.md
 ├── cloakingg.py
 ├── requirements.txt
@@ -30,8 +32,14 @@ Become Invisible using opencv and image segmentation
 
 
 ```
+images folder cotains images for demostrating variables of code.
+<br>
+
+
 
 ## Installation
+1. Windows user can double click on activation.bat file to install required package
+2. Linux User type following command in commnand line
 a) First create a virtual environment 
 ```bash
 python3.7 -m virtualenv venv
