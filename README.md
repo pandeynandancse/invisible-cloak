@@ -11,6 +11,7 @@ Become Invisible using opencv and image segmentation
   * [Bug / Feature Request](#bug---feature-request)
   * [Contribution](#contribution)
   * [Technologies Used](#technologies-used)
+  * [Contributor](#contributor)
 
 
 ## Demo
